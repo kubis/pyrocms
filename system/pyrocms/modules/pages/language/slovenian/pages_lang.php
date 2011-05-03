@@ -28,6 +28,7 @@ $lang['pages.js_label']                    = 'JavaScript';
 $lang['pages.access_label']                = 'Dostop';
 $lang['pages.rss_enabled_label']           = 'RSS omogočen';
 $lang['pages.comments_enabled_label']      = 'Komentarji omogočeni';
+$lang['pages.is_home_label']               = 'Privzeta(začetna) stran?';
 
 $lang['pages.status_label']                = 'Stanje';
 $lang['pages.draft_label']                 = 'Osnutek';
